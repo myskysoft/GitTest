@@ -1,2 +1,2 @@
 # GitTest
-学习Git
+学习Git!
